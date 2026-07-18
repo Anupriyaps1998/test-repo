@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Adding a new line
+=======
+this is a new update
+>>>>>>> 4498456b9f1a799967978b977f427de59abeac32
